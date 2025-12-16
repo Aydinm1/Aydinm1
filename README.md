@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Aydin Merchant  
 **Cognitive Science & Computer Science @ UC Davis (2024–2028)**  
-📍 Libertyville, IL  
+📍 Chicago, IL  
 💻 Passionate about building data-driven systems, automation tools, and real-world tech solutions that connect people and information.  
 
 ---

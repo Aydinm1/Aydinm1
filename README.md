@@ -21,7 +21,6 @@ Built and deployed a check-in and registration platform used by **5,000+ global 
 - Designed custom profiles for athletes, artists, and guests  
 - Integrated Airtable API for live data sync and conditional workflows  
 - Implemented digital consent forms with signature capture and role-based visibility  
-- Automated wristband, ID, and kit issuance tracking  
 
 #### 💡 [Talent Institute – Data & Systems Coordinator](https://github.com/Aydinm1/WCAA-Schedules)
 Developed a data management and communication system for **hundreds of mentors and innovators**.  
